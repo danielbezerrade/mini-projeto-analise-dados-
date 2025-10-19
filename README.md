@@ -38,4 +38,5 @@ Este projeto tem como objetivo realizar uma análise exploratória de dados de f
 - Este projeto está licenciado sob a MIT License.
 
 ![Gráfico de Idade vs Salário](grafico_idade_salario.png)
+
 ![Número de Funcionários por Área](Número de funcionários por área.png)
